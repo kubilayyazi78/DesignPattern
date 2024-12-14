@@ -1,9 +1,11 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.12.35527.113 d17.12
+VisualStudioVersion = 17.12.35527.113
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BuilderPattern", "BuilderPattern\BuilderPattern.csproj", "{00159CAF-2825-4E9B-A606-694ECA9C342E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DecoratorPattern", "DecoratorPattern\DecoratorPattern.csproj", "{2025C82C-21DA-47A8-B1AE-7E011729A513}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{00159CAF-2825-4E9B-A606-694ECA9C342E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{00159CAF-2825-4E9B-A606-694ECA9C342E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{00159CAF-2825-4E9B-A606-694ECA9C342E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2025C82C-21DA-47A8-B1AE-7E011729A513}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2025C82C-21DA-47A8-B1AE-7E011729A513}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2025C82C-21DA-47A8-B1AE-7E011729A513}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2025C82C-21DA-47A8-B1AE-7E011729A513}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
